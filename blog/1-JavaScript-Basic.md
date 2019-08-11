@@ -25,6 +25,8 @@
     ```
 
 ----------
+
+> [code](complete-javascript-course-master/4-DOM-pig-game/starter\app.js)
 8. hoisting function 在全局中定义可以先使用后定义。
 9. scope chain. 是在定义的时候，而不是调用的关系
 10. this关键字代表的意义，global object **window**, this 代表我们定义的对象。注意innerFunction 
